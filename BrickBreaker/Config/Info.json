@@ -1,0 +1,31 @@
+{
+  "application": {
+    "disableSplash": true
+  },
+
+  "renderer": {
+    "clearColor": "0x202020ff" //hex RGBA color value
+  },
+
+  "resources": {
+    "autoLoad": true
+  },
+
+  "window": {
+    "title": "GameDev2D",
+    "width": 1280,
+    "height": 720,
+    "fullscreen": false,
+    "vsync": true
+  },
+
+  "debug": {
+    "drawFps": false,
+    "drawElapsed": false,
+    "drawDelta": false,
+    "drawTotalDrawCalls": false,
+    "drawFrameDrawCalls": false,
+    "drawCameraPosition": false,
+    "drawSpriteOutline": false
+  }
+}
